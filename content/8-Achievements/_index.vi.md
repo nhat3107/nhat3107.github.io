@@ -12,7 +12,7 @@ pre: " <b> 8. </b> "
 
 ### Trang Đăng Ký
 
-![SignUp Page](/images/8.achievements/sinuppage.png)
+![SignUp Page](/images/8.achievements/signuppage.png)
 
 ### Trang Chủ
 
